@@ -1,4 +1,4 @@
-# flask_todo
+# Flask_todo
 
 
 Using Flask to make a todo list (Learn-by-doing-mini-project)
